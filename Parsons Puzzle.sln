@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Parsons Puzzle", "Parsons Puzzle\Parsons Puzzle.pyproj", "{C848C4A6-38EA-4FCA-8527-8B88ECD0B3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C848C4A6-38EA-4FCA-8527-8B88ECD0B3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C848C4A6-38EA-4FCA-8527-8B88ECD0B3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CAA7B4-4F1C-4EEB-896B-93A0B6E5D611}
+	EndGlobalSection
+EndGlobal
